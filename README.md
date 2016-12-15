@@ -152,3 +152,4 @@ last uploaded: Thu Dec 15 04:59:44 UTC 2016
     + 参见[Analytics Catalog Service Setup](https://predix-io.run.aws-jp01-pr.ice.predix.io/docs/?r=524849#ZJLU5uS)
     + 参照其中流程进行步骤5:Bind your application to the service instance后，需要准备postman或者使用[PredixToolKit](https://predix-starter.run.aws-jp01-pr.ice.predix.io/#!/analyticsCatalog)继续进行后续步骤
     + 步骤9:Add an analytic to the catalog中的Java analytic (demo adder java)可以使用附件中<分析算法测试代码.zip>的项目。
+    + 算法实现相关要求及目录结构说明请参见[PredixAnalyticsSample](https://github.com/PredixDev/predix-analytics-sample)
